@@ -17,8 +17,8 @@ from homeassistant.components.weather import (
 
 _LOGGER = logging.getLogger(__package__)
 
-DOMAIN = "able"
-DATA_ECOBEE_CONFIG = "ecobee_config"
+DOMAIN = "ecobee_able"
+DATA_ECOBEE_CONFIG = "ecobee_able_config"
 
 CONF_INDEX = "index"
 CONF_REFRESH_TOKEN = "refresh_token"
