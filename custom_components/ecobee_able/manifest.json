@@ -1,0 +1,13 @@
+{
+  "domain": "able",
+  "name": "ecobee-able",
+  "config_flow": true,
+  "documentation": "https://github.com/NEU-ABLE-LAB/custom_components-ecobee_able/blob/main/ecobee.markdown",
+  "requirements": [
+    "python-ecobee-api==0.2.14"
+  ],
+  "codeowners": [
+    "@thisismikekane"
+  ],
+  "iot_class": "cloud_polling"
+}
